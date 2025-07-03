@@ -1,0 +1,18 @@
+# Virtual Environment
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+transcript_*.txt
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
